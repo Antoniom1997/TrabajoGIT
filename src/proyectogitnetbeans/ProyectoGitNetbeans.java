@@ -16,6 +16,8 @@ public class ProyectoGitNetbeans {
      */
     public static void main(String[] args) {
        System.out.println("Primera linea para ver cambios del proyecto");
+       
+       System.out.println("Primera linea para ver cambios del proyecto");
     }
     
 }
